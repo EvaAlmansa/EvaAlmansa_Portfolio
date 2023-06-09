@@ -38,7 +38,7 @@
 <meta itemprop="name" content="Deep3DLayout: 3D reconstruction of an indoor layout from a spherical panoramic image">
 <meta itemprop="description" content="We have introduced a novel technique, dubbed Deep3DLayout, that exploits a graph convolutional network (GCN) to directly infer a watertight 3D mesh representation of the room shape from a gravity-aligned panoramic image."><meta itemprop="datePublished" content="2021-12-10T11:15:58-04:00" />
 <meta itemprop="dateModified" content="2021-12-10T11:15:58-04:00" />
-<meta itemprop="wordCount" content="332">
+<meta itemprop="wordCount" content="460">
 <meta itemprop="keywords" content="3D Layout Estimation,Equirectangular Projection,3D Reconstruction,Indoor Environment,Computer Vision," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Deep3DLayout: 3D reconstruction of an indoor layout from a spherical panoramic image"/>
 <meta name="twitter:description" content="We have introduced a novel technique, dubbed Deep3DLayout, that exploits a graph convolutional network (GCN) to directly infer a watertight 3D mesh representation of the room shape from a gravity-aligned panoramic image."/>
@@ -188,8 +188,19 @@
 <h2 id="summary">Summary</h2>
 <p>Within EVOCATION, we have introduced a novel technique, dubbed Deep3DLayout, that exploits a graph convolutional network (GCN) to directly infer a watertight 3D mesh representation of the room shape from a gravity-aligned panoramic image. ESR03 (Eva Almansa) has contributed to the conceptualization, methodology, software, and validation of this approach, under the supervision of Giovanni Pintore and Enrico Gobbetti at CRS4.</p>
 <p>The work has been presented at SIGGGRAPH Asia 2021 and published in ACM Transactions on Graphics.</p>
+<blockquote>
 <p>DOI: <a href="https://doi.org/10.1145/3478513.3480480">https://doi.org/10.1145/3478513.3480480</a></p>
+</blockquote>
+<blockquote>
 <p><a href="https://publications.crs4.it/pubdocs/2021/PAAG21/">CRS4 open access</a></p>
+</blockquote>
+<h2 id="dataset">Dataset</h2>
+<p>In the original article, we analyzed results standard publicly available datasets, containing thousands of indoor scenes and commonly adopted for benchmarking 3D layout recovery in order to provide a comparison with state-of-the-art work.</p>
+<p>However, due to the focus of prior works, these benchmarks mostly consist of  Manhattan World model (MWM: horizontal floors and ceilings, vertical walls meeting at right angles) structures.
+Since our method is more general, we extend the testing set with the publicly available <em>AtlantaLayout</em> dataset, which also contains rooms with curved walls or meeting at non-right angles. In addition, we prepared a specific dataset, called <em>Pano3DLayout</em>, containing 106 more complex environments, not included in previous benchmarks, such as, for example, scenes with sloped or stepped ceilings, domes, and interconnections of different rooms.</p>
+<blockquote>
+<p>Pano3DLayout: <a href="https://github.com/EvaAlmansa/Pano3DLayout/tree/master">https://github.com/EvaAlmansa/Pano3DLayout/tree/master</a></p>
+</blockquote>
 <h2 id="bibtex-references">Bibtex references</h2>
 <pre tabindex="0"><code>@Article{PAAG21,
   author       = {Pintore, G. and Almansa, E. and Agus, M. and Gobbetti, E.},
