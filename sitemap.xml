@@ -78,5 +78,9 @@
     <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url><url>
+    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/partners/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
