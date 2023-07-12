@@ -3,27 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/tags/3d-reconstruction/</loc>
-    <lastmod>2022-11-06T11:25:05-04:00</lastmod>
+    <lastmod>2023-05-06T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/tags/computer-vision/</loc>
-    <lastmod>2022-11-06T11:25:05-04:00</lastmod>
+    <lastmod>2023-05-06T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/post/chapter-4/</loc>
+    <lastmod>2023-05-06T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/tags/depth-completion/</loc>
+    <lastmod>2023-05-06T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/tags/depth-prediction/</loc>
+    <lastmod>2023-05-06T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/tags/equirectangular-projection/</loc>
-    <lastmod>2022-11-06T11:25:05-04:00</lastmod>
+    <lastmod>2023-05-06T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/</loc>
-    <lastmod>2022-11-06T11:25:05-04:00</lastmod>
+    <lastmod>2023-05-06T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/tags/indoor-environment/</loc>
-    <lastmod>2022-11-06T11:25:05-04:00</lastmod>
+    <lastmod>2023-05-06T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/tags/</loc>
+    <lastmod>2023-05-06T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -33,11 +53,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/tags/room-emptying/</loc>
-    <lastmod>2022-11-06T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/tags/</loc>
     <lastmod>2022-11-06T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
