@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 06 May 2023 11:25:05 -0400</lastBuildDate><atom:link href="https://evaalmansa.github.io/EvaAlmansa_Portfolio/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Deep Panoramic Depth Prediction and Completion for Indoor Scenes</title>
+      <title>[Journal] Deep Panoramic Depth Prediction and Completion for Indoor Scenes</title>
       <link>https://evaalmansa.github.io/EvaAlmansa_Portfolio/post/chapter-4/</link>
       <pubDate>Sat, 06 May 2023 11:25:05 -0400</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Instant Automatic Emptying of Panoramic Indoor Scenes</title>
+      <title>[Journal] Instant Automatic Emptying of Panoramic Indoor Scenes</title>
       <link>https://evaalmansa.github.io/EvaAlmansa_Portfolio/post/chapter-3/</link>
       <pubDate>Sun, 06 Nov 2022 11:25:05 -0400</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>Deep3DLayout: 3D reconstruction of an indoor layout from a spherical panoramic image</title>
+      <title>[Journal] Deep3DLayout: 3D reconstruction of an indoor layout from a spherical panoramic image</title>
       <link>https://evaalmansa.github.io/EvaAlmansa_Portfolio/post/chapter-2/</link>
       <pubDate>Fri, 10 Dec 2021 11:15:58 -0400</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>SliceNet: Deep Dense Depth Estimation From a Single Indoor Panorama Using a Slice-Based Representation</title>
+      <title>[CVPR21] SliceNet: Deep Dense Depth Estimation From a Single Indoor Panorama Using a Slice-Based Representation</title>
       <link>https://evaalmansa.github.io/EvaAlmansa_Portfolio/post/chapter-1/</link>
       <pubDate>Tue, 02 Nov 2021 11:14:48 -0400</pubDate>
       
