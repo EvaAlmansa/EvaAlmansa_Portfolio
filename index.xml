@@ -8,6 +8,59 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 06 May 2023 11:25:05 -0400</lastBuildDate><atom:link href="https://evaalmansa.github.io/EvaAlmansa_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://evaalmansa.github.io/EvaAlmansa_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://evaalmansa.github.io/EvaAlmansa_Portfolio/about/</guid>
+      <description>Eva Almansa I am a Marie Skłodowska-Curie Early Stage Researcher (ESR03) in the Visual Computing (ViC) group at the Center for Advanced Studies, Research, and Development in Sardinia (CRS4). I am awarded a fellowship (2020-2023) from the EVOCATION innovative training network under H2020. I hold a Bachelor Degree in Computer Science and Artificial Intelligence (2015) and a Master Degree of Data Science (2017) from the University of Granada, Spain.</description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>https://evaalmansa.github.io/EvaAlmansa_Portfolio/conferences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://evaalmansa.github.io/EvaAlmansa_Portfolio/conferences/</guid>
+      <description>SIGGRAPH 2023 Student Volunteer &amp;amp; Attendance in-person (Los Angeles, USA)
+As Student Volunteer at SIGGRAPH 2023: SIGGRAPH 2022 Student Volunteer &amp;amp; Attendance (virtually)
+As Student Volunteer at SIGGRAPH 2022: ICVSS 2022 Student
+As student at International Computer Vision Summer School 2022 (ICVSS 2022) in Catania, Italy. Poster
+Almansa et al. Indoor 3D Reconstruction from Omnidirectional Input (Poster).
+Successfully completed the examination session
+For more information, see my Test Certificate: &amp;ldquo;The examination paper was related to the courses (30 hours) delivered by the following world-renowned experts in the field, from both academia and industry.</description>
+    </item>
+    
+    <item>
+      <title>Multimedia</title>
+      <link>https://evaalmansa.github.io/EvaAlmansa_Portfolio/multimedia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://evaalmansa.github.io/EvaAlmansa_Portfolio/multimedia/</guid>
+      <description> A brief introduction about my work on the EVOCATION project (recorded and edited by myself, around 3 minutes of video): My work’s summary (an extension of the previous video) on the EVOCATION project (recorded and edited by myself, around 20 minutes of video): Oral Presentation at PyConEs21 (starts at 3 h 11 min 11 sec): </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://evaalmansa.github.io/EvaAlmansa_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://evaalmansa.github.io/EvaAlmansa_Portfolio/contact/</guid>
+      <description>Feel free to ask me anything about my work. I am delighted to expand my network of contacts.
+Your Name Email Address An email address is required. Message </description>
+    </item>
+    
+    <item>
+      <title>Network</title>
+      <link>https://evaalmansa.github.io/EvaAlmansa_Portfolio/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://evaalmansa.github.io/EvaAlmansa_Portfolio/partners/</guid>
+      <description>I reserve this space for all those people whom I would like to promote, whom I admire for their magnificent vocation.
+Marta Almansa (Excellent) Digital Artist Speaks: Spanish / English / German Portfolio &amp;amp; Contact: https://drawingprozac.carrd.co/ </description>
+    </item>
+    
+    <item>
       <title>Deep Panoramic Depth Prediction and Completion for Indoor Scenes</title>
       <link>https://evaalmansa.github.io/EvaAlmansa_Portfolio/post/chapter-4/</link>
       <pubDate>Sat, 06 May 2023 11:25:05 -0400</pubDate>
@@ -41,35 +94,6 @@
       
       <guid>https://evaalmansa.github.io/EvaAlmansa_Portfolio/post/chapter-1/</guid>
       <description>Abstract We introduce a novel deep neural network to estimate a depth map from a single monocular indoor panorama. The network directly works on the equirectangular projection, exploiting the properties of indoor 360 images. Starting from the fact that gravity plays an important role in the design and construction of man-made indoor scenes, we propose a compact representation of the scene into vertical slices of the sphere, and we exploit long- and short-term relationships among slices to recover the equirectangular depth map.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://evaalmansa.github.io/EvaAlmansa_Portfolio/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://evaalmansa.github.io/EvaAlmansa_Portfolio/about/</guid>
-      <description>Eva Almansa I am a Marie Skłodowska-Curie Early Stage Researcher (ESR03) in the Visual Computing (ViC) group at the Center for Advanced Studies, Research, and Development in Sardinia (CRS4). I am awarded a fellowship (2020-2023) from the EVOCATION innovative training network under H2020. I hold a Bachelor Degree in Computer Science and Artificial Intelligence (2015) and a Master Degree of Data Science (2017) from the University of Granada, Spain.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://evaalmansa.github.io/EvaAlmansa_Portfolio/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://evaalmansa.github.io/EvaAlmansa_Portfolio/contact/</guid>
-      <description>Feel free to ask me anything about my work. I am delighted to expand my network of contacts.
-Your Name Email Address An email address is required. Message </description>
-    </item>
-    
-    <item>
-      <title>Network</title>
-      <link>https://evaalmansa.github.io/EvaAlmansa_Portfolio/partners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://evaalmansa.github.io/EvaAlmansa_Portfolio/partners/</guid>
-      <description>I reserve this space for all those people whom I would like to promote, whom I admire for their magnificent vocation.
-Marta Almansa (Excellent) Digital Artist Speaks: Spanish / English / German Portfolio &amp;amp; Contact: https://drawingprozac.carrd.co/ </description>
     </item>
     
   </channel>

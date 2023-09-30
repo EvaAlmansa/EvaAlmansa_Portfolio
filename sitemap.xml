@@ -2,6 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/post/</loc>
+    <lastmod>2020-06-08T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/conferences/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/multimedia/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/partners/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/tags/3d-reconstruction/</loc>
     <lastmod>2023-05-06T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -77,24 +102,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/post/</loc>
-    <lastmod>2020-06-08T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://evaalmansa.github.io/EvaAlmansa_Portfolio/partners/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
